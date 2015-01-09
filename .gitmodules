@@ -1,0 +1,3 @@
+[submodule "Projects"]
+	path = MiniProjects
+	url = https://github.com/karan/Projects
