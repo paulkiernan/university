@@ -2,8 +2,8 @@
 
 List of projects anyone can use to help familiarize themselves with some of the
 fundamental concepts of programming. These projects are divided into individual
-lessons aimed at guiding a student through elementary concepts first and then
-exploring more advanced topics
+lessons aimed at guiding a student first through elementary concepts and later
+piecing all of these together to explore more advanced topics.
 
 I wrote these lessons with Python as the subject language in mind but they can
 be completed with most other languages as well.
