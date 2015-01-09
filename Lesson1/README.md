@@ -21,7 +21,7 @@ Concepts to keep in mind:
 * While loops
 * If/Else statements
 
-## Extra Credit: Hangman
+## Extra Credit: Hangman (guess the word)
 
 Extend your program to allow the user to guess a word instead of a number. The
 program will first need to generate/select a word unknown to the user. Then,
